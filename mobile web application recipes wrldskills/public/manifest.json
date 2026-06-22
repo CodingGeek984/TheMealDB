@@ -1,0 +1,12 @@
+{
+    "name": "mobile web applicattion",
+    "short_name": "WebMobileApp",
+    "description": "Application for watching different dishes and recipes",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background": "linear-gradient(180deg, #071c2f 0%, #0b1320 100%)"
+}
+
+
